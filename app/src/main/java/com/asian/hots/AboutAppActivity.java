@@ -34,7 +34,7 @@ public class AboutAppActivity extends Activity
 			}
 		});
     }
-    
+    // fdfdfdfd
     @Override
     protected void onStart()
     {
