@@ -1,0 +1,172 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* AsianHots.iml
+* app\
+* app\.gitignore
+* app\build.gradle
+* app\proguard-rules.txt
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\ic_launcher-web.png
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\example\
+* app\src\main\java\com\example\app\
+* app\src\main\java\com\example\app\MainActivity.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\layout\fragment_main.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\main.xml
+* app\src\main\res\values-w820dp\
+* app\src\main\res\values-w820dp\dimens.xml
+* app\src\main\res\values\
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* out\
+* out\production\
+* out\production\AsianHots\
+* out\production\AsianHots\AsianHots.apk
+* out\production\AsianHots\AsianHots.unaligned.apk
+* out\production\AsianHots\com\
+* out\production\AsianHots\com\asian\
+* out\production\AsianHots\com\asian\hots\
+* out\production\AsianHots\com\asian\hots\AboutAppActivity$1.class
+* out\production\AsianHots\com\asian\hots\AboutAppActivity.class
+* out\production\AsianHots\com\asian\hots\AlbumsGridActivity$1.class
+* out\production\AsianHots\com\asian\hots\AlbumsGridActivity.class
+* out\production\AsianHots\com\asian\hots\AlbumsListActivity.class
+* out\production\AsianHots\com\asian\hots\BuildConfig.class
+* out\production\AsianHots\com\asian\hots\CoverFlowActivity$1.class
+* out\production\AsianHots\com\asian\hots\CoverFlowActivity$2.class
+* out\production\AsianHots\com\asian\hots\CoverFlowActivity$3.class
+* out\production\AsianHots\com\asian\hots\CoverFlowActivity$ImageAdapter.class
+* out\production\AsianHots\com\asian\hots\CoverFlowActivity$ParserTask.class
+* out\production\AsianHots\com\asian\hots\CoverFlowActivity.class
+* out\production\AsianHots\com\asian\hots\MainActivity$1.class
+* out\production\AsianHots\com\asian\hots\MainActivity$DisplayNextView.class
+* out\production\AsianHots\com\asian\hots\MainActivity$MainCountDown.class
+* out\production\AsianHots\com\asian\hots\MainActivity$SwapViews.class
+* out\production\AsianHots\com\asian\hots\MainActivity.class
+* out\production\AsianHots\com\asian\hots\R$anim.class
+* out\production\AsianHots\com\asian\hots\R$attr.class
+* out\production\AsianHots\com\asian\hots\R$color.class
+* out\production\AsianHots\com\asian\hots\R$drawable.class
+* out\production\AsianHots\com\asian\hots\R$id.class
+* out\production\AsianHots\com\asian\hots\R$layout.class
+* out\production\AsianHots\com\asian\hots\R$menu.class
+* out\production\AsianHots\com\asian\hots\R$string.class
+* out\production\AsianHots\com\asian\hots\R$xml.class
+* out\production\AsianHots\com\asian\hots\R.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$1.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$2.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$3.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$4.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$5.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$6.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$MainCountDown.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity$ParserTask.class
+* out\production\AsianHots\com\asian\hots\ViewImagesActivity.class
+* out\production\AsianHots\com\asian\hots\adapter\
+* out\production\AsianHots\com\asian\hots\adapter\AlbumsGridAdapter$1.class
+* out\production\AsianHots\com\asian\hots\adapter\AlbumsGridAdapter$ViewHolder.class
+* out\production\AsianHots\com\asian\hots\adapter\AlbumsGridAdapter.class
+* out\production\AsianHots\com\asian\hots\adapter\AlbumsListAdapter$1.class
+* out\production\AsianHots\com\asian\hots\adapter\AlbumsListAdapter$ViewHolder.class
+* out\production\AsianHots\com\asian\hots\adapter\AlbumsListAdapter.class
+* out\production\AsianHots\com\asian\hots\coverflow\
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAbsSpinner$1.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAbsSpinner$RecycleBin.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAbsSpinner$SavedState$1.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAbsSpinner$SavedState.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAbsSpinner.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView$1.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView$AdapterContextMenuInfo.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView$AdapterDataSetObserver.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView$OnItemClickListener.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView$OnItemLongClickListener.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView$OnItemSelectedListener.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView$SelectionNotifier.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverAdapterView.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverFlow$1.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverFlow$2.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverFlow$FlingRunnable.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverFlow$LayoutParams.class
+* out\production\AsianHots\com\asian\hots\coverflow\CoverFlow.class
+* out\production\AsianHots\com\asian\hots\data\
+* out\production\AsianHots\com\asian\hots\data\Albums.class
+* out\production\AsianHots\com\asian\hots\transition3d\
+* out\production\AsianHots\com\asian\hots\transition3d\Rotate3dAnimation.class
+* out\production\AsianHots\com\asian\hots\util\
+* out\production\AsianHots\com\asian\hots\util\FileUtil.class
+* out\production\AsianHots\com\asian\hots\util\GlobalVariable.class
+* out\production\AsianHots\com\asian\hots\util\XMLUtil.class
+* out\production\AsianHots\com\asian\hots\zoom\
+* out\production\AsianHots\com\asian\hots\zoom\AspectQuotient.class
+* out\production\AsianHots\com\asian\hots\zoom\Dynamics.class
+* out\production\AsianHots\com\asian\hots\zoom\ImageZoomView.class
+* out\production\AsianHots\com\asian\hots\zoom\SpringDynamics.class
+* out\production\AsianHots\com\asian\hots\zoom\TouchZoomListener$CountDown.class
+* out\production\AsianHots\com\asian\hots\zoom\TouchZoomListener$Hidden.class
+* out\production\AsianHots\com\asian\hots\zoom\TouchZoomListener.class
+* out\production\AsianHots\com\asian\hots\zoom\ZoomControl$1.class
+* out\production\AsianHots\com\asian\hots\zoom\ZoomControl.class
+* out\production\AsianHots\com\asian\hots\zoom\ZoomState.class
+* proguard.cfg
+* settings.gradle
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* bg_main.JPG => bg_main.jpg
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
