@@ -11,7 +11,6 @@ import android.widget.TextView;
 
 public class AboutAppActivity extends Activity
 {
-    //test commit
 	private TextView btnBack;
 	private TextView textview;
 	private Context mContext;
@@ -22,9 +21,7 @@ public class AboutAppActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.app_about_activity);
         mContext 	= this;
-        hghg
-                jiji
-       // btnBack		= (TextView)findViewById(R.id.app_about_btn_back);
+        btnBack		= (TextView)findViewById(R.id.app_about_btn_back);
         textview	= (TextView)findViewById(R.id.app_about_text_view);
         textview.setText(FileUtil.readFileText(mContext));
         btnBack.setOnClickListener(new OnClickListener()
@@ -36,7 +33,7 @@ public class AboutAppActivity extends Activity
 			}
 		});
     }
-    // fdfdfdfd
+
     @Override
     protected void onStart()
     {
