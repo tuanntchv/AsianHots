@@ -22,7 +22,7 @@ public class AboutAppActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.app_about_activity);
         mContext 	= this;
-        btnBack		= (TextView)findViewById(R.id.app_about_btn_back);
+       // btnBack		= (TextView)findViewById(R.id.app_about_btn_back);
         textview	= (TextView)findViewById(R.id.app_about_text_view);
         textview.setText(FileUtil.readFileText(mContext));
         btnBack.setOnClickListener(new OnClickListener()
