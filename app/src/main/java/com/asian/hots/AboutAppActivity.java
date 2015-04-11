@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 public class AboutAppActivity extends Activity
 {
+    //test commit
 	private TextView btnBack;
 	private TextView textview;
 	private Context mContext;
