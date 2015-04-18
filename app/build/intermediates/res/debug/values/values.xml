@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/tuannt/AndroidStudioProjects/AsianHosts/AsianHots/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <string name="app_name">Asian Hots</string>
+    <string name="msg_loading">Loading...</string>
+    <string name="txt_about">About App</string>
+    <string name="txt_albums">Albums</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_reset">Reset</string>
+</resources>

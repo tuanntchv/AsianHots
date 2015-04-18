@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">            
+    <item android:state_pressed="true" android:drawable="@drawable/btn_list_press"/>
+    <item android:drawable="@drawable/btn_list"/>
+</selector><!-- From: file:/home/tuannt/AndroidStudioProjects/AsianHosts/AsianHots/app/src/main/res/xml/cover_flow_selector.xml -->
